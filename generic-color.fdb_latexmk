@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1760196085.24937 "c:/Users/joshs/OneDrive/LaTeX/TED-Jin202512-manuscript/generic-color.tex" "generic-color.pdf" "generic-color" 1760196086.05991 0
+["pdflatex"] 1760196881.50476 "c:/Users/joshs/OneDrive/LaTeX/TED-Jin202512-manuscript/generic-color.tex" "generic-color.pdf" "generic-color" 1760196882.44854 0
   "C:/Users/joshs/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1756648167 83609 ebbc432e6cbbb238d39535255db2c8bd ""
   "C:/Users/joshs/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1748184191 13159325 f8b5a48bb2fdd4d05fd99ce32af1d3a8 ""
   "C:/Users/joshs/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc" 1458473887 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
@@ -121,10 +121,10 @@
   "C:/Users/joshs/AppData/Local/Programs/MiKTeX/tex/latex/psnfss/ts1phv.fd" 1585253778 1221 ec0c641cd2e0fb69a449534a0279b5ca ""
   "C:/Users/joshs/AppData/Local/Programs/MiKTeX/tex/latex/psnfss/ts1ptm.fd" 1585253778 653 96f56dc5d1ef1fe1121f1cfeec70ee0c ""
   "LOGO-generic-web.eps" 1748685760 96860 991288daab2defa3899e7c0d849884be ""
-  "c:/Users/joshs/OneDrive/LaTeX/TED-Jin202512-manuscript/generic-color.tex" 1760196084 43431 2268f0ad25b6b701a055f596ff28785e ""
+  "c:/Users/joshs/OneDrive/LaTeX/TED-Jin202512-manuscript/generic-color.tex" 1760196880 43511 40122f318f16fa8f347b3557246e9f53 ""
   "fig1.png" 1748685760 13815 016052f2e09fbe31a21f6dc821b31ed9 ""
-  "generic-color.aux" 1760196085 6234 d73d2b4167aa7ba1f194ebb5e4086db1 "pdflatex"
-  "generic-color.tex" 1760196084 43431 2268f0ad25b6b701a055f596ff28785e ""
+  "generic-color.aux" 1760196882 6234 d73d2b4167aa7ba1f194ebb5e4086db1 "pdflatex"
+  "generic-color.tex" 1760196880 43511 40122f318f16fa8f347b3557246e9f53 ""
   "generic.sty" 1748685760 192 e8d3ecc691fbbb2da183dfc84a675b29 ""
   "ieeecolor.cls" 1748685760 224773 9f9540495f1e1a992a162661c1be18be ""
   (generated)
